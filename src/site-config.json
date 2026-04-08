@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Certified Electric LLC",
+    "phone": "+12089954600",
+    "category": "electrician",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Boise's Trusted Electricians",
+      "heroSubline": "Powering homes and businesses with reliable electrical solutions. Certified Electric LLC: Quality work, guaranteed.",
+      "aboutTitle": "Reliable Electrical Solutions for Boise",
+      "aboutText": [
+        "Certified Electric LLC was founded over a decade ago with a simple mission: to provide top-quality electrical services to the Boise community. We saw a need for electricians who were not only skilled and knowledgeable, but also committed to honesty, integrity, and customer satisfaction. We've built our reputation on those principles.",
+        "Our approach is straightforward: we listen to our clients, assess their needs thoroughly, and deliver solutions that are both effective and affordable. We believe in clear communication, transparent pricing, and getting the job done right the first time. Every project, big or small, receives our full attention and dedication.",
+        "We're proud to be a part of the Boise community. We support local causes and strive to make a positive impact through our work. From wiring new homes in Harris Ranch to upgrading electrical systems in historic North End buildings, we're committed to powering Boise's future."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team of licensed and insured electricians has years of experience in all aspects of electrical work."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We arrive on time, complete projects efficiently, and stand behind our workmanship."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "You'll receive a clear, upfront estimate with no hidden fees or surprises."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "We're available around the clock to handle any electrical emergency you may encounter."
+        }
+      ],
+      "ctaHeadline": "Need Electrical Work?",
+      "ctaSubline": "Contact Certified Electric LLC today for a free estimate!"
+    },
+    "services": [
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your home's electrical system can handle modern demands.",
+        "description": "Is your electrical panel outdated or insufficient for your current power needs? Homes in Boise's older neighborhoods like the North End often have panels that struggle to support modern appliances and electronics. An electrical panel upgrade from Certified Electric LLC can provide the necessary capacity and safety features to power your home reliably. We'll assess your current electrical load, recommend the appropriate panel size, and install it according to all local codes and regulations. This includes replacing old fuse boxes with modern circuit breaker panels. Don't risk overloading your system – protect your home and family with a panel upgrade.",
+        "process": [
+          "Step 1: Comprehensive electrical load assessment",
+          "Step 2: Recommendation of appropriate panel size and type",
+          "Step 3: Safe removal and disposal of old panel",
+          "Step 4: Professional installation of new electrical panel"
+        ],
+        "benefits": [
+          "Increased electrical capacity",
+          "Improved safety and reliability",
+          "Compliance with current electrical codes",
+          "Support for modern appliances and electronics"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include flickering lights, frequently tripped breakers, and the use of multiple extension cords. If you're planning to add new appliances or renovate your home, an upgrade may also be necessary."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "The duration depends on the complexity of the job, but most panel upgrades can be completed in one day. We'll provide you with a more accurate estimate during our initial assessment."
+          },
+          {
+            "question": "Is it safe to attempt an electrical panel upgrade myself?",
+            "answer": "No. Electrical work is inherently dangerous and should only be performed by a licensed and qualified electrician. Our team ensures safety and code compliance."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your home's ambiance and functionality with expert lighting solutions.",
+        "description": "From recessed lighting in your kitchen to landscape lighting in your backyard, Certified Electric LLC offers a wide range of lighting installation services to brighten your Boise home. We can help you choose the right fixtures, install them safely and efficiently, and ensure they complement your home's style. We work with LED lighting, which is energy efficient and long-lasting, perfect for the dry Boise summers. Whether you're renovating your home or simply want to update your lighting, we've got you covered. Our professional team will handle all wiring and connections, guaranteeing a safe and reliable installation.",
+        "process": [
+          "Step 1: Consultation to discuss your lighting needs and preferences",
+          "Step 2: Selection of appropriate lighting fixtures and components",
+          "Step 3: Professional wiring and installation of new lights",
+          "Step 4: Testing and verification of proper operation"
+        ],
+        "benefits": [
+          "Improved home aesthetics",
+          "Increased energy efficiency",
+          "Enhanced safety and security",
+          "Customized lighting solutions"
+        ],
+        "faq": [
+          {
+            "question": "What types of lighting fixtures do you install?",
+            "answer": "We install a wide variety of fixtures, including recessed lighting, chandeliers, pendant lights, track lighting, landscape lighting, and more. We can also install smart lighting systems that can be controlled remotely."
+          },
+          {
+            "question": "How much does lighting installation cost?",
+            "answer": "The cost depends on the type of fixtures, the complexity of the installation, and the amount of wiring required. We'll provide you with a free estimate after assessing your needs."
+          },
+          {
+            "question": "Can you help me choose the right lighting for my home?",
+            "answer": "Absolutely! We can provide expert advice on lighting design and fixture selection to help you create the perfect ambiance for your home."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Address faulty outlets and switches for safety and convenience.",
+        "description": "Faulty outlets and switches can be a nuisance and a safety hazard. If you're experiencing issues with your outlets or switches, such as sparking, buzzing, or not working at all, Certified Electric LLC can help. We'll diagnose the problem, repair or replace the faulty components, and ensure your electrical system is functioning safely and reliably. We're familiar with the wiring in older Boise homes, and can handle any repair, from replacing a broken outlet to upgrading your home to tamper-resistant outlets for child safety. Don't let a minor electrical issue turn into a major problem – call us today for prompt and professional service.",
+        "process": [
+          "Step 1: Thorough inspection of outlets and switches",
+          "Step 2: Diagnosis of the underlying problem",
+          "Step 3: Repair or replacement of faulty components",
+          "Step 4: Testing and verification of proper operation"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased convenience",
+          "Prevention of electrical hazards",
+          "Restored functionality"
+        ],
+        "faq": [
+          {
+            "question": "Why are my outlets sparking?",
+            "answer": "Sparking outlets can be caused by loose wiring, damaged components, or overloaded circuits. It's important to address this issue promptly to prevent a fire hazard."
+          },
+          {
+            "question": "How do I know if an outlet is overloaded?",
+            "answer": "Signs of an overloaded outlet include tripped breakers, warm outlets, and dimming lights when appliances are plugged in. Avoid using multiple high-powered appliances on the same circuit."
+          },
+          {
+            "question": "What are tamper-resistant outlets?",
+            "answer": "Tamper-resistant outlets have a built-in safety mechanism that prevents children from inserting objects into the slots. They're a great way to protect your kids from electrical shock."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-rewiring",
+        "name": "Whole-House Rewiring",
+        "shortDescription": "Upgrade outdated wiring to ensure safety and meet modern power demands.",
+        "description": "Older homes in Boise, particularly in areas like the East End, often have outdated wiring that can be a safety hazard. If your home's wiring is more than 25 years old, it may be time for a whole-house rewiring. Certified Electric LLC can replace your old wiring with modern, code-compliant wiring to ensure the safety and reliability of your electrical system. We understand the challenges of working in older homes and take extra care to minimize disruption during the rewiring process. We'll pull the necessary permits, handle all inspections, and ensure your home is up to code.",
+        "process": [
+          "Step 1: Complete assessment of existing wiring",
+          "Step 2: Planning and design of new wiring layout",
+          "Step 3: Removal of old wiring",
+          "Step 4: Installation of new wiring and components"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased electrical capacity",
+          "Compliance with current electrical codes",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does whole-house rewiring take?",
+            "answer": "The duration depends on the size and complexity of your home, but most rewiring projects take 1-2 weeks. We'll provide you with a more accurate estimate during our initial assessment."
+          },
+          {
+            "question": "Will I have to move out during the rewiring process?",
+            "answer": "While it's possible to live in your home during rewiring, it can be disruptive. We recommend discussing your options with our team to determine the best course of action."
+          },
+          {
+            "question": "How much does whole-house rewiring cost?",
+            "answer": "The cost depends on the size of your home, the complexity of the wiring, and the materials used. We'll provide you with a free, detailed estimate before starting any work."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-electrical-services",
+        "name": "24/7 Emergency Electrical Services",
+        "shortDescription": "Reliable support for any electrical emergency, day or night.",
+        "description": "Electrical emergencies can happen at any time, and when they do, you need a reliable electrician you can count on. Certified Electric LLC offers 24/7 emergency electrical services to the Boise area. Whether it's a power outage, a downed power line, or a sparking electrical panel, we'll respond quickly and efficiently to resolve the issue and ensure your safety. Our team is equipped to handle any electrical emergency, and we'll work to minimize damage and restore power as quickly as possible. During Boise's hot summers and cold winters, a power outage can be especially dangerous, so don't hesitate to call us for immediate assistance.",
+        "process": [
+          "Step 1: Immediate response to your emergency call",
+          "Step 2: Rapid diagnosis of the electrical problem",
+          "Step 3: Safe and efficient repair or replacement of faulty components",
+          "Step 4: Verification of proper operation and safety"
+        ],
+        "benefits": [
+          "Rapid response",
+          "Expert diagnosis",
+          "Safe and reliable repairs",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an electrical emergency?",
+            "answer": "Any situation that poses an immediate threat to your safety or property, such as a power outage, sparking wires, or a downed power line, is considered an electrical emergency."
+          },
+          {
+            "question": "How quickly will you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within 30-60 minutes, depending on your location and the severity of the situation."
+          },
+          {
+            "question": "What should I do while waiting for the electrician to arrive?",
+            "answer": "Stay away from any damaged electrical equipment or downed power lines. If possible, turn off the main power switch to your home. Wait for our team to arrive and assess the situation."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Ensure your home's electrical system is safe and up to code.",
+        "description": "Whether you're buying or selling a home in Boise, or simply want to ensure the safety of your family, an electrical inspection from Certified Electric LLC is a smart investment. Our certified electricians will thoroughly inspect your home's electrical system, identify any potential hazards or code violations, and provide you with a detailed report. We'll check everything from the wiring and outlets to the electrical panel and grounding system. With Boise's mix of new and older homes, electrical inspections are crucial for identifying potential problems before they become costly repairs. Don't wait until it's too late – schedule an electrical inspection today.",
+        "process": [
+          "Step 1: Comprehensive visual inspection of all electrical components",
+          "Step 2: Testing of outlets, switches, and circuits",
+          "Step 3: Examination of the electrical panel and grounding system",
+          "Step 4: Detailed report outlining any findings and recommendations"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Early detection of potential problems",
+          "Compliance with electrical codes",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have an electrical inspection?",
+            "answer": "We recommend having an electrical inspection every 3-5 years, or whenever you're buying or selling a home."
+          },
+          {
+            "question": "What happens if the inspection reveals problems?",
+            "answer": "We'll provide you with a detailed report outlining any issues and recommend the necessary repairs. We can also perform the repairs for you, ensuring your electrical system is safe and up to code."
+          },
+          {
+            "question": "How long does an electrical inspection take?",
+            "answer": "The duration depends on the size and complexity of your home, but most inspections take 2-4 hours."
+          }
+        ]
+      },
+      {
+        "slug": "smart-home-installations",
+        "name": "Smart Home Installations",
+        "shortDescription": "Upgrade your home with the latest smart technology for convenience and efficiency.",
+        "description": "Transform your Boise home into a smart home with Certified Electric LLC. We specialize in installing and integrating smart home devices, including smart lighting, thermostats, security systems, and more. Control your home from your smartphone, automate tasks, and save energy with our expert smart home solutions. We'll handle all the wiring, programming, and integration to ensure your smart home system works seamlessly. As Boise embraces new technologies, smart home features are becoming increasingly popular, adding convenience and value to your property. Let us help you create a connected and intelligent home.",
+        "process": [
+          "Step 1: Consultation to discuss your smart home goals and preferences",
+          "Step 2: Selection of appropriate smart home devices and components",
+          "Step 3: Professional wiring and installation of smart devices",
+          "Step 4: Programming and integration into a unified system"
+        ],
+        "benefits": [
+          "Increased convenience and control",
+          "Improved energy efficiency",
+          "Enhanced security",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What smart home devices can you install?",
+            "answer": "We install a wide range of smart home devices, including smart lighting, thermostats, security systems, doorbells, locks, and more. We can also integrate voice control systems like Amazon Alexa and Google Assistant."
+          },
+          {
+            "question": "How much does smart home installation cost?",
+            "answer": "The cost depends on the devices you choose and the complexity of the installation. We'll provide you with a free estimate after assessing your needs."
+          },
+          {
+            "question": "Do I need special wiring for smart home devices?",
+            "answer": "Some smart home devices require dedicated wiring, while others can operate wirelessly. We'll assess your home's wiring and recommend the appropriate solutions."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Certified Electric LLC is proud to provide top-notch electrical services to the residents and businesses of Boise, Idaho. As a locally owned and operated company, we understand the unique electrical needs of this vibrant community. Our team of licensed and experienced electricians is committed to delivering safe, reliable, and efficient solutions for all your electrical needs.\n\nWhether you're dealing with a flickering light, require a complete home rewiring, or need assistance with commercial electrical installations, Certified Electric LLC is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every project. Our services include electrical repairs, new construction wiring, panel upgrades, lighting installations, and much more. We are dedicated to keeping your home or business powered safely and effectively.\n\nWe're committed to serving Boise and the surrounding areas with integrity and professionalism. Contact us today for all your electrical needs!",
+        "localContext": "Boise is a thriving city known for its outdoor recreation, vibrant downtown, and strong sense of community. We understand the importance of reliable electrical systems to support the city's growing population and businesses.",
+        "nearbyAreas": [
+          "Meridian",
+          "Eagle",
+          "Garden City"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Certified Electric LLC extends its expert electrical services to the growing community of Meridian, Idaho. As one of the fastest-growing cities in the state, Meridian demands reliable and efficient electrical solutions for both residential and commercial properties. We are equipped to handle all your electrical needs, from simple repairs to complex installations.\n\nOur team of licensed electricians is dedicated to providing exceptional service and ensuring the safety of your electrical systems. We offer a wide range of services, including electrical inspections, outlet and switch replacements, circuit breaker repairs, and generator installations. We understand the importance of having a safe and reliable electrical system, and we're committed to delivering quality workmanship at competitive prices.\n\nTrust Certified Electric LLC to be your go-to electrician in Meridian. We are committed to providing prompt, professional, and reliable service to our valued customers.",
+        "localContext": "Meridian is known for its family-friendly atmosphere and rapid growth. We are proud to serve the homeowners and businesses of this dynamic community with dependable electrical services.",
+        "nearbyAreas": [
+          "Boise",
+          "Kuna",
+          "Star"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Certified Electric LLC proudly serves the residents and businesses of Nampa, Idaho, with comprehensive electrical services. As the largest city in Canyon County, Nampa demands reliable and efficient electrical solutions, and we are committed to meeting those needs with expertise and professionalism.\n\nOur team of licensed and experienced electricians is equipped to handle a wide range of electrical projects, from troubleshooting and repairs to new construction wiring and commercial installations. We prioritize safety and customer satisfaction, ensuring that all our work meets the highest standards of quality and compliance.\n\nWhether you need help with a faulty outlet, a panel upgrade, or a complete electrical system overhaul, Certified Electric LLC is here to provide prompt, reliable, and affordable service. We are committed to keeping your home or business powered safely and efficiently.",
+        "localContext": "Nampa is a thriving city with a strong sense of community and a growing economy. We are dedicated to providing the electrical services needed to support its continued growth and prosperity.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Middleton"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Certified Electric LLC is dedicated to providing top-quality electrical services to the residents and businesses of Caldwell, Idaho. With a commitment to safety, reliability, and customer satisfaction, we strive to exceed your expectations with every project. Our team of licensed and experienced electricians is equipped to handle all your electrical needs, big or small.\n\nFrom electrical repairs and maintenance to new construction wiring and commercial installations, we offer a comprehensive range of services to meet your specific needs. We use only the highest quality materials and adhere to strict safety standards to ensure the long-term performance and safety of your electrical systems.\n\nChoose Certified Electric LLC for all your electrical needs in Caldwell. We are committed to providing prompt, professional, and affordable service to our valued customers.",
+        "localContext": "Caldwell is a growing city with a rich history and a strong sense of community. We are proud to serve the homeowners and businesses of this vibrant community with dependable electrical services.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Certified Electric LLC is pleased to offer its expert electrical services to the residents and businesses of Eagle, Idaho. Known for its beautiful homes and upscale community, Eagle demands quality electrical workmanship, and we are committed to delivering exceptional service with every project.\n\nOur team of licensed electricians is experienced in handling a wide range of electrical needs, from simple repairs to complex installations. We understand the importance of having a safe and reliable electrical system, and we are dedicated to providing the highest level of service and expertise.\n\nWhether you're building a new home, remodeling an existing one, or simply need electrical repairs, Certified Electric LLC is here to help. We are committed to providing prompt, professional, and reliable service to our valued customers in Eagle.",
+        "localContext": "Eagle is an affluent community known for its beautiful homes and scenic surroundings. We are dedicated to providing the electrical services needed to maintain the quality and safety of its residences and businesses.",
+        "nearbyAreas": [
+          "Star",
+          "Boise",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Certified Electric LLC is proud to serve the growing community of Star, Idaho, with reliable and professional electrical services. As a rapidly developing town, Star requires dependable electrical solutions for both residential and commercial properties, and we are committed to meeting those needs with expertise and integrity.\n\nOur team of licensed and experienced electricians is equipped to handle a wide range of electrical projects, from troubleshooting and repairs to new construction wiring and commercial installations. We prioritize safety and customer satisfaction, ensuring that all our work meets the highest standards of quality and compliance.\n\nWhether you need help with a faulty outlet, a panel upgrade, or a complete electrical system overhaul, Certified Electric LLC is here to provide prompt, reliable, and affordable service. We are committed to keeping your home or business powered safely and efficiently in Star.",
+        "localContext": "Star is a fast-growing community with a close-knit feel. We are dedicated to providing the electrical services needed to support its continued growth and development.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Garden City",
+        "slug": "garden-city-id",
+        "state": "ID",
+        "content": "Certified Electric LLC is pleased to offer its comprehensive electrical services to the residents and businesses of Garden City, Idaho. Located along the Boise River, Garden City is a unique community with diverse electrical needs, and we are committed to providing tailored solutions to meet those needs.\n\nOur team of licensed electricians is experienced in handling a wide range of electrical projects, from simple repairs to complex installations. We understand the importance of having a safe and reliable electrical system, and we are dedicated to providing the highest level of service and expertise.\n\nWhether you're dealing with an electrical emergency, need help with a renovation project, or require routine maintenance, Certified Electric LLC is here to help. We are committed to providing prompt, professional, and reliable service to our valued customers in Garden City.",
+        "localContext": "Garden City is a unique community known for its artistic vibe and proximity to the Boise River. We are proud to serve the homeowners and businesses of this vibrant community with dependable electrical services.",
+        "nearbyAreas": [
+          "Boise",
+          "Eagle",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "Certified Electric LLC is proud to provide electrical services to the residents and businesses of Kuna, Idaho. As a growing community, Kuna needs dependable and professional electrical work, and our team is dedicated to delivering just that. We're here to ensure your electrical systems are safe, efficient, and up to code.\n\nOur licensed electricians handle a wide range of services, including wiring upgrades, lighting installations, electrical repairs, and more. We understand the importance of having a reliable electrical system, whether it's for your home or business. We make sure every job is done right.\n\nChoose Certified Electric LLC for your electrical needs in Kuna. We are committed to providing prompt, professional, and affordable service. Your satisfaction and safety are our top priorities.",
+        "localContext": "Kuna is known for its strong community spirit and family-friendly environment. We're proud to serve the homes and businesses of this growing city.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice K.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Certified Electric upgraded my electrical panel in my older North End home. They were professional, efficient, and explained everything clearly. I had no idea my old panel was so outdated! Now I feel much safer and can finally run all my appliances without tripping breakers. Great service!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Bob M.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "Had a couple of outlets that weren't working. Certified Electric came out quickly and fixed the problem. They were polite and professional. The price was reasonable, and I appreciate their prompt service.",
+        "date": "2024-12-03"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "Certified Electric installed recessed lighting in my kitchen. They did an amazing job! The new lights completely transformed the space, and I couldn't be happier. The electricians were skilled and meticulous. I highly recommend them!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "David P.",
+        "rating": 5,
+        "service": "Emergency Electrical Service",
+        "text": "Had a power outage late at night, and Certified Electric was there within an hour. They quickly diagnosed the problem and restored power. I was so relieved! Their emergency service is a lifesaver.",
+        "date": "2025-02-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Whole-House Rewiring",
+        "text": "Certified Electric rewired my entire home. It was a big job, but they handled it with professionalism and care. They kept me informed throughout the process and minimized disruption. The new wiring gives me peace of mind knowing my home is safe.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Smart Home Installation",
+        "text": "Certified Electric installed my smart thermostat and lighting system. The installation was smooth, and they showed me how to use everything. Now I can control my home's temperature and lighting from my phone. Very convenient!",
+        "date": "2025-03-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Boise Electrician | Certified Electric LLC",
+        "description": "Reliable electrician in Boise ID. Panel upgrades, lighting, repairs, 24/7 emergency service. Licensed & insured."
+      },
+      "about": {
+        "title": "About Us | Certified Electric LLC",
+        "description": "Learn about Certified Electric LLC in Boise, ID. Our commitment to quality electrical services & customer satisfaction."
+      },
+      "services": {
+        "title": "Electrical Services | Boise ID",
+        "description": "Comprehensive electrical services in Boise, ID. Panel upgrades, lighting, outlets, rewiring & more. Certified Electric LLC."
+      },
+      "contact": {
+        "title": "Contact Us | Boise Electrician",
+        "description": "Contact Certified Electric LLC for electrical services in Boise, ID. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Reviews | Certified Electric LLC",
+        "description": "Read reviews for Certified Electric LLC in Boise, ID. See what our satisfied customers have to say."
+      },
+      "service-areas": {
+        "title": "Service Areas | Boise Electrician",
+        "description": "Certified Electric LLC: Serving Boise and surrounding areas. Expert electrical services you can trust."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "whole-house-rewiring": "/images/service-whole-house-rewiring.webp",
+      "emergency-electrical-services": "/images/service-emergency-electrical-services.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp",
+      "smart-home-installations": "/images/service-smart-home-installations.webp"
+    },
+    "servicesResponsive": {
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-rewiring": {
+        "src": "/images/service-whole-house-rewiring.webp",
+        "srcset": "/images/service-whole-house-rewiring-400w.webp 400w, /images/service-whole-house-rewiring-800w.webp 800w, /images/service-whole-house-rewiring-1200w.webp 1200w, /images/service-whole-house-rewiring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-electrical-services": {
+        "src": "/images/service-emergency-electrical-services.webp",
+        "srcset": "/images/service-emergency-electrical-services-400w.webp 400w, /images/service-emergency-electrical-services-800w.webp 800w, /images/service-emergency-electrical-services-1200w.webp 1200w, /images/service-emergency-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "smart-home-installations": {
+        "src": "/images/service-smart-home-installations.webp",
+        "srcset": "/images/service-smart-home-installations-400w.webp 400w, /images/service-smart-home-installations-800w.webp 800w, /images/service-smart-home-installations-1200w.webp 1200w, /images/service-smart-home-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
